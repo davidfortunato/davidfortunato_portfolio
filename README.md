@@ -43,6 +43,9 @@ Power Query was used to finalize the data model by generating primary keys, as w
 
 ### Location Analysis
 
+- Two key states contribute a significant portion of Marsal's profit: California, with $50,125, and New York, with $43,504, together accounting for 38% of the total profit. This aligns with the fact that both California and New York are among the wealthiest and most populous states in the U.S.A..
+- 
+
 ![Data Model](Images/location_analysis.png)
 
 ## Recommendations
