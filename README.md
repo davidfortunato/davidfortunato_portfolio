@@ -43,7 +43,7 @@ Power Query was used to finalize the data model by generating primary keys, as w
 
 ### Location Analysis
 
-![Data Model]()
+![Data Model](Images/location_analysis.png)
 
 ## Recommendations
 
