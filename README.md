@@ -21,7 +21,9 @@ A file with DAX measures implemented can be found here. (inserir bloco de notas 
 
 Marsal's data model consists of four dimension tables (Date, Product, Client and Location) and one fact table (Sales) with a total row count of 5901.
 
+![Data Model](Images/data_model.png)
 
+Power Query was used to finalize the data model by generating primary keys, as well as performing tasks such as verifying duplicates, identifying missing values, and addressing inconsistencies.
 
 ## Executive Summary
 
