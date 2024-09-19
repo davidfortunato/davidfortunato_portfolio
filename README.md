@@ -19,7 +19,7 @@ A file with DAX measures implemented can be found here. (inserir bloco de notas 
 
 ## Data Structure Overview
 
-Marsal's data model consists of four dimension tables (Date, Product, Client and Location) and one fact table (Sales) with a total row count of 5901.
+Marsal's data model consists of four dimension tables (Date, Product, Client and Location) and one fact table (Sales) with a total row count of 8233.
 
 ![Data Model](Images/data_model.png)
 
