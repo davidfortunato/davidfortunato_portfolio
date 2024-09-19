@@ -27,17 +27,13 @@ Power Query was used to finalize the data model by generating primary keys, as w
 
 ## Executive Summary
 
+![Data Model](Images/overview.png)
 
 ## Insights Deep Dive
 
-
-
-
-
-
-
 ### Sales Trends
 
+![Data Model](Images/sales_trends.png)
 
 ## Recommendations
 
