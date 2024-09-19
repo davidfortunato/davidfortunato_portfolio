@@ -33,7 +33,7 @@ Power Query was used to finalize the data model by generating primary keys, as w
 
 ### Sales Trends
 
-![Data Model](Images/sales_trends.png)
+![Data Model](Images/salestrends.png)
 
 ## Recommendations
 
