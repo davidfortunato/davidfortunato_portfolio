@@ -11,13 +11,17 @@ Insights and recommendations will be provided in the following:
 - Product-Level Analysis: A detailed examination of Marsal's diverse product portfolio to assess its impact on overall sales and profitability, identifying top-performing and underperforming products.
 - Customer-Level Analysis: An exploration of customer behavior and loyalty to understand their influence on sales, helping to uncover trends in client retention and purchasing habits.
 
+The source of the data can be found here. (inserir link)
 
+An interactive Power BI dashboard can be downloaded here. (inserir projeto)
 
+A file with DAX measures implemented can be found here. (inserir bloco de notas com as measures)
 
 ## Data Structure Overview
 
-Inline-style: 
-![alt text]("C:/Docs IMS/Portefolio/Data Visualization/data_model.png")
+Marsal's data model consists of four dimension tables (Date, Product, Client and Location) and one fact table (Sales) with a total row count of 5901.
+
+
 
 ## Executive Summary
 
