@@ -44,7 +44,9 @@ Power Query was used to finalize the data model by generating primary keys, as w
 ### Location Analysis
 
 - Two key states contribute a significant portion of Marsal's profit: California, with $50,125, and New York, with $43,504, together accounting for 38% of the total profit. This aligns with the fact that both California and New York are among the wealthiest and most populous states in the U.S.A..
+- Despite the downward trend in the first and second quarters of 2020, all regions remained above the pre-COVID baseline and finished 2020 with higher values compared to the end of 2019. This growth was driven by a strong rebound in the last two quarters of 2020, particularly in the East region, which saw a 54% increase from $56,177 to $122,036.
 - 
+
 
 ![Data Model](Images/location_analysis.png)
 
