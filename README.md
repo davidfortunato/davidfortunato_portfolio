@@ -13,7 +13,7 @@ Insights and recommendations will be provided in the following:
 
 The source of the data can be found [here](https://www.kaggle.com/datasets/monisamir/online-super-store-sales-analysis).
 
-An interactive Power BI dashboard can be downloaded [here]. 
+An interactive Power BI dashboard can be downloaded [here](https://github.com/davidfortunato/davidfortunato_portfolio/raw/main/Company%20X%20sales%20performance.pbix). 
 
 ## Data Structure Overview
 
@@ -31,7 +31,7 @@ Power Query was used to finalize the data model by generating primary keys, as w
 
 Marsal's sales remained remarkably consistent between 2019 and 2020, despite the challenges posed by the COVID-19 pandemic. Although there was a brief period of decline, the impact on sales was minimal, and the company quickly rebounded, surpassing pre-COVID sales levels. This report highlights key findings, presents a thorough analysis of KPIs, and offers strategic recommendations for Marsal Co.'s executive team. The insights will help guide future decision-making to ensure sustained growth and adaptability in a changing market.
 
-Below is the Overview page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download here. (incluir report)
+Below is the Overview page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download [here](https://github.com/davidfortunato/davidfortunato_portfolio/raw/main/Company%20X%20sales%20performance.pbix). 
 
 ![Data Model](Images/overview_final.png)
 
@@ -44,7 +44,7 @@ Below is the Overview page of the Power BI Dashboard and more examples are inclu
 - The average sales value showed steady growth leading up to COVID, peaking at $502.28 in February 2020. Afterward, it declined and did not fully recover by the end of 2020.
 - The most profitable season was summer, with July, August, and September seeing profit increases of 40.18% in 2019 and 14.16% in 2020. This can largely be attributed to strong performance in the Accessories category, which saw significant growth during this quarter, with 160.45% in 2019 and 57.42% in 2020.
 
-Below is the Sales Trends page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download here. (incluir report)
+Below is the Sales Trends page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download [here](https://github.com/davidfortunato/davidfortunato_portfolio/raw/main/Company%20X%20sales%20performance.pbix). 
 
 ![Data Model](Images/sales_trends_final.png)
 
@@ -55,7 +55,7 @@ Below is the Sales Trends page of the Power BI Dashboard and more examples are i
 - 2020 was a year of volatility, but despite the early struggles, all regions of Marsal’s operations stayed above their pre-COVID baseline. The most striking turnaround came in the final two quarters, where regions not only recovered but surged. The East region, in particular, exemplified this resurgence, jumping by 54% from $56,177 to $122,036 by year’s end. This recovery highlights the resilience of the business during a challenging period and shows how strategic adjustments led to a stronger-than-expected close to the year.
 - The central states, particularly Wyoming, stand out as the lowest contributors to Marsal’s profit, with Wyoming generating only $100 in total profit. In stark contrast, Washington has a much higher profit of $25,801.
 
-Below is the Location Analysis page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download here. (incluir report)
+Below is the Location Analysis page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download [here](https://github.com/davidfortunato/davidfortunato_portfolio/raw/main/Company%20X%20sales%20performance.pbix). 
 
 ![Data Model](Images/location_analysis_final.png)
 
@@ -65,7 +65,7 @@ Below is the Location Analysis page of the Power BI Dashboard and more examples 
 - Office Supplies and Furniture showed resilience to seasonal fluctuations, maintaining consistent profit growth throughout the months. Over the two-year period, Office Supplies saw a remarkable growth of 358%, while Furniture followed closely with a 267% increase. Their steady performance highlights a stable demand, unaffected by typical market seasonality.
 - In contrast, the surge in Technology sales can largely be attributed to Phones, which stand out as the only technology product in the top five most sold items. With total sales reaching $280K over the two years, Phones significantly contributed to the sector’s dominance in overall sales.
 
-Below is the Product Performance page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download here. (incluir report)
+Below is the Product Performance page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download [here](https://github.com/davidfortunato/davidfortunato_portfolio/raw/main/Company%20X%20sales%20performance.pbix). 
 
 ![Data Model](Images/product_performance.png)
 
@@ -75,7 +75,7 @@ Below is the Product Performance page of the Power BI Dashboard and more example
 - Across all customer segments, there were no significant spikes, either positive or negative, over the two-year period, indicating steady performance for Personal Customers, Corporate, and Home Office clients alike. Despite external factors, their purchasing behavior remained relatively stable throughout the timeline.
 - Customers with the highest order volume surprisingly had some of the lowest Average Order Values (AOV), ranging between $300 and $500. In contrast, customers with the lowest order volume had significantly higher AOVs, averaging around $2,000. This suggests that high-volume customers tend to make frequent, smaller purchases, while lower-volume customers may place fewer but more substantial orders.
 
-Below is the Customer Analysis page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download here. (incluir report)
+Below is the Customer Analysis page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download [here](https://github.com/davidfortunato/davidfortunato_portfolio/raw/main/Company%20X%20sales%20performance.pbix). 
 
 ![Data Model](Images/Customer_Analysis.png)
 
