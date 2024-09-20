@@ -56,7 +56,7 @@ Power Query was used to finalize the data model by generating primary keys, as w
 
 ### Customer Analysis
 
-![Data Model](Images/customer_analysis.png)
+![Data Model](Images/Customer_Analysis.png)
 
 
 ## Recommendations
