@@ -13,7 +13,7 @@ Insights and recommendations will be provided in the following:
 
 The source of the data can be found [here](https://www.kaggle.com/datasets/monisamir/online-super-store-sales-analysis).
 
-An interactive Power BI dashboard can be downloaded here. (inserir projeto)
+An interactive Power BI dashboard can be downloaded [here]. 
 
 ## Data Structure Overview
 
