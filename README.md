@@ -27,7 +27,7 @@ Power Query was used to finalize the data model by generating primary keys, as w
 
 ## Executive Summary
 
-![Data Model](Images/overview_page.png)
+![Data Model](Images/overview_final.png)
 
 ## Insights Deep Dive
 
@@ -39,7 +39,7 @@ Power Query was used to finalize the data model by generating primary keys, as w
 - The most profitable season was summer, with July, August, and September seeing profit increases of 40.18% in 2019 and 14.16% in 2020. This can largely be attributed to strong performance in the Accessories category, which saw significant growth during this quarter, with 160.45% in 2019 and 57.42% in 2020.
 
 
-![Data Model](Images/salestrends.png)
+![Data Model](Images/sales_trends_final.png)
 
 ### Location Analysis
 
@@ -48,7 +48,16 @@ Power Query was used to finalize the data model by generating primary keys, as w
 - 
 
 
-![Data Model](Images/location_analysis.png)
+![Data Model](Images/location_analysis_final.png)
+
+### Product Performance
+
+![Data Model](Images/product_performance.png)
+
+### Customer Analysis
+
+![Data Model](Images/customer_analysis.png)
+
 
 ## Recommendations
 
