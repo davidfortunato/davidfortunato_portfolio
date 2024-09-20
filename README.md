@@ -29,7 +29,7 @@ Power Query was used to finalize the data model by generating primary keys, as w
 
 ### Overview of Findings
 
-Marsal's sales were very consistent between 2019 and 2020. Despite the COVID-19 effect, Marsal was able to maintain their sales downward trend small and for a short period of time before being able to recuperate and even exceed pre-COVID numbers. Throughout this report there will be the key findings, analysis of KPIs and some recommendations for the executive team of Marsal Co..
+Marsal's sales remained remarkably consistent between 2019 and 2020, despite the challenges posed by the COVID-19 pandemic. Although there was a brief period of decline, the impact on sales was minimal, and the company quickly rebounded, surpassing pre-COVID sales levels. This report highlights key findings, presents a thorough analysis of KPIs, and offers strategic recommendations for Marsal Co.'s executive team. The insights will help guide future decision-making to ensure sustained growth and adaptability in a changing market.
 
 Below is the Overview page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download here. (incluir report)
 
