@@ -40,9 +40,9 @@ Below is the Overview page of the Power BI Dashboard and more examples are inclu
 ### Sales Trends
 
 - Marsal's sales experienced a local peak in December 2019, 522 orders, followed by a significant decline during the early months of COVID-19. After March 2020, sales began to recover steadily, reaching a new peak in December 2020, 637 orders. This trend aligns with the global drop in consumption at the onset of the pandemic, followed by continuous growth as the initial impact of COVID subsided.
-- In both years, the months surrounding the holiday season (November and December) show a clear increase in order volume, with growth of 91.32% and 2.96% in 2019, and 53.07% and 2.25% in 2020. This aligns with expected seasonal fluctuations. However, during the same period in 2019, there was a significant decline in profit, dropping by -123.23% in November and -473.72% in December.
+- In both years, the months surrounding the holiday season (November and December) show a clear increase in order volume, with growth of 91.32% and 2.96% in 2019, and 53.07% and 2.25% in 2020. This aligns with expected seasonal fluctuations. 
 - The average sales value showed steady growth leading up to COVID, peaking at $502.28 in February 2020. Afterward, it declined and did not fully recover by the end of 2020.
-- The most profitable season was summer, with July, August, and September seeing profit increases of 40.18% in 2019 and 14.16% in 2020. This can largely be attributed to strong performance in the Accessories category, which saw significant growth during this quarter, with 160.45% in 2019 and 57.42% in 2020.
+- The most profitable season was summer, with July, August, and September seeing profit increases of 51.61% in 2019 and 33.12% in 2020. This can largely be attributed to strong performance in the Accessories category, which saw significant growth during this quarter, with 160.45% in 2019 and 57.42% in 2020.
 
 Below is the Sales Trends page of the Power BI Dashboard and more examples are included throughout the report. For the full Power BI report download [here](https://github.com/davidfortunato/davidfortunato_portfolio/raw/main/Company%20X%20sales%20performance.pbix). 
 
